@@ -1,0 +1,5 @@
+{
+  "name": "DentalFlow",
+  "description": "A comprehensive dental clinic management application featuring patient records, appointment scheduling, and invoice generation.",
+  "requestFramePermissions": []
+}
